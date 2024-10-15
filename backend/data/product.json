@@ -1,0 +1,150 @@
+[
+    {
+        "name": "cooking oil",
+        "price": 110.67,
+        "description": "Gold Refined Sunflower oil Pouch (Samayal Yennai): 1 Liter.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Oil",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Snacks",
+        "price": 150.32,
+        "description": "Snacks Confectionery, Munchies,Chips.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Snacks",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Fresh Fruits & vegetables",
+        "price": 440.05,
+        "description": "Fresh Fruits & vegetables(Your Order Min $440 Fruits Or Veg / 10% Discount )",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Fruits & Veg",
+        "seller": "Zepto",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Food",
+        "price": 550.46,
+        "description": "Order your Favorite Food and Discover Exciting New Dishes(Special Offers Min 3 Dishes)",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/4.jpg"
+          }
+        ],
+        "category": "Fast Food",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Fresh Meats",
+        "price": 250.12,
+        "description": "Fresh chicken Meats 1Kg",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/5.jpg"
+          }
+        ],
+        "category": "Meats",
+        "seller": "Zomato",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Dry-Fruits",
+        "price": 1350.12,
+        "description": "Farmley Dry-Fruits & Nuts Specialist",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Nuts",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Fresh Bread",
+        "price": 175.12,
+        "description": "Fresh Bread For your Breakfast.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Breakfast",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+
+    {
+        "name": "Kitchen Ware",
+        "price": 2500.46,
+        "description": "The Great Kitchen Ware combo Offers.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category": "Kitchen",
+        "seller": "Flipkart",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Kitchen Ware",
+        "price": 1500.46,
+        "description": "The Great Kitchen Ware combo Offers.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/9.jpg"
+            }
+        ],
+        "category": "Kitchen",
+        "seller": "Flipkart",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
