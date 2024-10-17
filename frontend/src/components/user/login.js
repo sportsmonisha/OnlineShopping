@@ -70,7 +70,7 @@ export default function Login() {
                             className="btn btn-block py-3"
                             disabled={loading}
                         >
-                        LOGIN
+                            {loading ? 'Loading...' : 'LOGIN'}
                         </button>
 
                         
